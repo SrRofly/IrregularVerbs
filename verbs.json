@@ -1,8 +1,18 @@
 {
-  "Verbs": {
+  "A": {
+    "Antoniar": {
+      "Past simple": "antoniar",
+      "Past participle": "antoniar"
+    },
+    "Antoniarr": {
+      "Past simple": "antoniarr",
+      "Past participle": "antoniarr"
+    }
+  },
+  "B": {
     "Be": {
       "Past simple": "was/were",
       "Past participle": "been"
-    }
+    }    
   }
 }
