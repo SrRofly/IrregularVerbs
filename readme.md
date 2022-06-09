@@ -1,1 +1,1 @@
-This is IrregularVerbs API for my project Tverbs
+List of the irregular verbs in English
