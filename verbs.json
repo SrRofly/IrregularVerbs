@@ -1,5 +1,11 @@
 {
     "eng": {
+        "abide": [
+            [
+                "abode",
+                "abode"
+            ]
+        ],
         "arise": [
             [
                 "arose",
@@ -14,6 +20,16 @@
             [
                 "awoke",
                 "awoken"
+            ]
+        ],
+        "be": [
+            [
+                "was",
+                "been"
+            ],
+            [
+                "were",
+                "been"
             ]
         ],
         "backslide": [
